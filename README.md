@@ -17,17 +17,17 @@ The data set contains precise details about Riyadh villas, their areas and the n
 ---
 1. #### Most of the properties in the data set are in the Tuwaiq neighborhood
 
-2. #### 
+2. #### Resorting to larger buildings and their presence in the top 5 neighborhoods found in the data 
 
-3. 
+3. #### Al-Narjis neighborhood is the most expensive of the four neighborhoods
 
-4. 
+4. #### Most of the villas have 2 lounges
 
-5. 
+5. #### It's clear that Not being satisfied with one lounge in the villa
 
-6. 
+6. #### The largest number of villas in Riyadh do not exceed 1.25 million riyals
 
-7. 
+7. #### There are very few villas in Riyadh for less than 300,000 riyals
 
 8. 
 
