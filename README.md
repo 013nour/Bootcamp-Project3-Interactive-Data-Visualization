@@ -15,9 +15,9 @@ The data set contains precise details about Riyadh villas, their areas and the n
 
 ## Insights
 ---
-1. 
+1. #### Most of the properties in the data set are in the Tuwaiq neighborhood
 
-2. 
+2. #### 
 
 3. 
 
