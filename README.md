@@ -1,3 +1,44 @@
+# Riyadh Villas Aqar
+---
+### Team Members
+* Saleh
+* Nour
+* Hesham
+
+## Introduction
+---
+In this project, we will show you real estate prices in Riyadh and more details about the areas and locations of real estate, some of which are distinctive and some of which are large. Our primary goal is to explore dataset, obtain useful information about the property, and provide useful insight about real estate in Riyadh.
+
+## Overview
+---
+The data set contains precise details about Riyadh villas, their areas and the number of rooms. Also, their prices and the neighborhood in which they are located, you can find the data set in the following source: [Riyadh Villas Dataset on Kaggle](https://www.kaggle.com/datasets/reemamuhammed/riyadh-villas-aqar) 
+
+## Insights
+---
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+10. 
+
+
+
+
+--- 
 # 3-Interactive-Data-Visualization
 
 Based on what you’ve learned until now, use NumPy, pandas, matplotlib, seaborn, and Plotly to create a project of your choosing.
